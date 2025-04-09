@@ -41,7 +41,7 @@ exports.generateEmailTemplate = (code) => {
 <div>
    <div style="max-width: 620px; margin: 0 auto; font-family: sans-serif; color: #272727;">
     <h1 style = "background: #f6f6f6; padding: 10px; text-align: center;
-    color: #272727;">We are delighted to welcome you to our family!</h1>
+    color: #272727;">We are thrilled to welcome you to our family!</h1>
 
     <p> Verify Your Email To continue Your Verification code is: </p>
 
