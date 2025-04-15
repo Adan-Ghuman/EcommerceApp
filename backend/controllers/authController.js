@@ -26,7 +26,7 @@ module.exports = {
     });
 
     const OTP = generateOTP();
-    console.log(OTP);
+    console.log("Your OTP is :"OTP);
 
     const verificationToken = new VerificationToken({
       owner: newUser._id,
